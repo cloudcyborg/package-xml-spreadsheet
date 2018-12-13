@@ -7,7 +7,7 @@ Very simple to use and maintain.
 
 You can use this as a sheet to keep track of components in your development. 
 
-> You will need a spreadsheet sofware, like Microsoft Excel or Google Spreadsheets to use this. 
+> You will need a spreadsheet software, like Microsoft Excel or Google Spreadsheets to use this. 
 
 ## Usage 
 
