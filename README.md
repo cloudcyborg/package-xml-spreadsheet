@@ -14,7 +14,14 @@ You can use this as a sheet to keep track of components in your development.
 * Create the xml content from your components in the spreadsheet.
 * Copy the XML generated into the empty Package xml file provided. 
 
-> Check this 30 minute video which describes how to use this spreadsheet, and two other ways to create package xmls
+> Check [this video](https://youtu.be/8RhZ1YPGSSk) which describes how to use this spreadsheet, and two other ways to manage package xmls
+
+For steps, check the 'Instructions' sheet in the spreadsheet
+
+
+## Contact
+
+Please feel free to drop a mail at cloudcyborg6@gmail.com
 
 
 
